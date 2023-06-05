@@ -1,0 +1,41 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 7
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": ".log",
+    "files": [
+        {
+            "date": 1685947783573,
+            "name": "/home/kiwitech/blockchain/poc/fastify-sample/logs/app-info.20230605.log",
+            "hash": "14c343390eea3379df3f7a0e3ac6b160"
+        },
+        {
+            "date": 1685979368286,
+            "name": "/home/kiwitech/blockchain/poc/fastify-sample/src/logs/app-info.20230605.log",
+            "hash": "d8a57ccfb31df30443ba16efca47631c"
+        },
+        {
+            "date": 1685980786449,
+            "name": "/home/kiwitech/blockchain/poc/fastify-sample/logs/app-info-20230605.log.log",
+            "hash": "5c234cc70e2fde6b97a6c0ff307e1620"
+        },
+        {
+            "date": 1685980797408,
+            "name": "/home/kiwitech/blockchain/poc/fastify-sample/logs/app-info-20230605.log",
+            "hash": "81c7919134d672cb1acec14c4fb05052"
+        },
+        {
+            "date": 1685980810184,
+            "name": "/home/kiwitech/blockchain/poc/fastify-sample/logs/20230605.log",
+            "hash": "c1492a356fb6c5d1da7aa5a38960d9c3"
+        },
+        {
+            "date": 1685980817315,
+            "name": "/home/kiwitech/blockchain/poc/fastify-sample/logs/app-20230605.log",
+            "hash": "627962742d98e0b318d11cc56daeb987"
+        }
+    ]
+}
